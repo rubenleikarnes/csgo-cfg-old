@@ -15,8 +15,8 @@
 	"setting.mat_software_aa_strength"		"0"
 	"setting.mat_motion_blur_enabled"		"0"
 	"setting.fullscreen"		"1"
-	"setting.defaultres"		"1280"
-	"setting.defaultresheight"		"800"
+	"setting.defaultres"		"1440"
+	"setting.defaultresheight"		"900"
 	"setting.aspectratiomode"		"2"
 	"setting.nowindowborder"		"0"
 }
